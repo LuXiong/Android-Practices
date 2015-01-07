@@ -1,0 +1,57 @@
+!SESSION 2015-01-07 09:48:02.220 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86 -clean
+
+!ENTRY org.eclipse.update.configurator 2015-01-07 09:48:14.220
+!MESSAGE Could not install bundle ../myeclipse/eclipse/plugins/com.ibm.icu_3.6.1.v20070906.jar   Bundle "com.ibm.icu" version "3.6.1.v20070906" has already been installed from: update@plugins/com.ibm.icu_3.6.1.v20070906.jar
+
+!ENTRY org.eclipse.update.configurator 2015-01-07 09:48:14.282
+!MESSAGE Could not install bundle ../myeclipse/eclipse/plugins/javax.servlet.jsp_2.0.0.v200706191603.jar   Bundle "javax.servlet.jsp" version "2.0.0.v200706191603" has already been installed from: update@plugins/javax.servlet.jsp_2.0.0.v200706191603.jar
+
+!ENTRY org.eclipse.update.configurator 2015-01-07 09:48:14.282
+!MESSAGE Could not install bundle ../myeclipse/eclipse/plugins/javax.servlet_2.4.0.v200706111738.jar   Bundle "javax.servlet" version "2.4.0.v200706111738" has already been installed from: update@plugins/javax.servlet_2.4.0.v200706111738.jar
+
+!ENTRY org.eclipse.update.configurator 2015-01-07 09:48:14.313
+!MESSAGE Could not install bundle ../myeclipse/eclipse/plugins/org.apache.commons.el_1.0.0.v200706111724.jar   Bundle "org.apache.commons.el" version "1.0.0.v200706111724" has already been installed from: update@plugins/org.apache.commons.el_1.0.0.v200706111724.jar
+
+!ENTRY com.genuitec.eclipse.core 1 0 2015-01-07 09:48:58.985
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.032
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.173
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.282
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.313
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.345
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.376
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.391
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.423
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.454
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.485
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-01-07 09:49:04.501
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 6.5\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.5.0.zmyeclipse650200806\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2015-01-07 09:49:49.876
+!MESSAGE Network connection problems encountered during search.
